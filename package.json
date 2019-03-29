@@ -1,0 +1,23 @@
+{
+  "name": "normalise-abn",
+  "version": "1.0.0",
+  "description": "Australian Business Number Normaliser &amp; Formatter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmniPayFinance/normalise-abn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OmniPayFinance/normalise-abn/issues"
+  },
+  "homepage": "https://github.com/OmniPayFinance/normalise-abn#readme",
+  "devDependencies": {
+    "jest": "^24.5.0"
+  }
+}
